@@ -1,2 +1,2 @@
-# HTML_CSS_Project
-Smile Emoji
+# Smile Face Emoji 
+HTML CSS
